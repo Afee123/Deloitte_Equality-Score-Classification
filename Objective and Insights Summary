@@ -1,0 +1,18 @@
+## 𝗚𝗼𝗮𝗹
+This workbook contains data on employee compensation equality scores from Daikibo factories. The objective is to classify the scores into "Fair," "Unfair," and "Highly Discriminative" categories based on score thresholds.
+
+## 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗟𝗼𝗴𝗶𝗰
+- Fair: Scores between -10 and +10 (inclusive).
+- Unfair: Scores between -20 and -11 or 11 and 20.
+- Highly Discriminative: Scores less than -20 or greater than 20.
+
+## 𝗖𝗼𝗻𝘁𝗲𝗻𝘁𝘀
+- Excel file with added "Equality class" column.
+- Tableau workbook visualizing the distribution of equality classifications across factories and job roles.
+
+## 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
+- Clear clustering of fairness levels within factories.
+- Identification of job roles with potential compensation disparities.
+
+## 𝗨𝘀𝗮𝗴𝗲
+Use Excel to review classifications and open Tableau workbook for visual insights
